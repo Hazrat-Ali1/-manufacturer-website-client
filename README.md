@@ -1,5 +1,3 @@
-# https://bike-accessories2.netlify.app/
-## Md Tomiz Uddin
 
 
 ## Used Dependencies
